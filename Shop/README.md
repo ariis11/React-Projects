@@ -1,2 +1,2 @@
-![image](https://github.com/ariis11/React-Projects/assets/47053735/c6142ee3-9581-415c-a73f-d383571bd211)![image](https://github.com/ariis11/React-Projects/assets/47053735/1cccee79-7134-43a6-8d2c-0c247f1dfd85)![image](https://github.com/ariis11/React-Projects/assets/47053735/9a3cf371-dd26-4160-b4ca-0485792f1f98)
-![image](https://github.com/ariis11/React-Projects/assets/47053735/42319f7f-d5e3-4469-9edf-08dd9b2e324c)
+![image](https://github.com/ariis11/React-Projects/assets/47053735/97f839da-c417-4836-9b81-5b5321b0be62)
+![image](https://github.com/ariis11/React-Projects/assets/47053735/4aea20ef-654b-4baf-940b-ed18d6ee10d5)
